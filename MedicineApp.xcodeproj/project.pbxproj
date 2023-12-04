@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		3A763C322B13848200978547 /* MedicineApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A763C102B13848200978547 /* MedicineApp.swift */; };
-		3A763C332B13848200978547 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3A763C112B13848200978547 /* Assets.xcassets */; };
 		3A763C342B13848200978547 /* TabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A763C132B13848200978547 /* TabView.swift */; };
 		3A763C352B13848200978547 /* TabBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A763C142B13848200978547 /* TabBarView.swift */; };
 		3A763C362B13848200978547 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A763C152B13848200978547 /* MainView.swift */; };
@@ -29,16 +28,16 @@
 		3A763C462B13848200978547 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A763C2B2B13848200978547 /* User.swift */; };
 		3A763C472B13848200978547 /* Tab.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A763C2D2B13848200978547 /* Tab.swift */; };
 		3A763C482B13848200978547 /* WelcomeScreenOptionButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A763C2F2B13848200978547 /* WelcomeScreenOptionButton.swift */; };
-		3A763C492B13848200978547 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3A763C312B13848200978547 /* Preview Assets.xcassets */; };
 		3A763C4E2B1384B800978547 /* Nunito-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3A763C4B2B1384B800978547 /* Nunito-Bold.ttf */; };
 		3A763C4F2B1384B800978547 /* Poppins-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3A763C4C2B1384B800978547 /* Poppins-Regular.ttf */; };
 		3A763C502B1384B800978547 /* Poppins-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3A763C4D2B1384B800978547 /* Poppins-Bold.ttf */; };
+		3AB763E52B1E4B1C00E0BD88 /* fasfafasasfsa.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AB763E42B1E4B1C00E0BD88 /* fasfafasasfsa.swift */; };
+		3AB763E92B1E4C4600E0BD88 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3AB763E82B1E4C4600E0BD88 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		3A763B8D2B13834D00978547 /* MedicineApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MedicineApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3A763C102B13848200978547 /* MedicineApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MedicineApp.swift; sourceTree = "<group>"; };
-		3A763C112B13848200978547 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = ../../MedicineApp2/MedicineApp/Assets.xcassets; sourceTree = "<group>"; };
 		3A763C132B13848200978547 /* TabView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TabView.swift; sourceTree = "<group>"; };
 		3A763C142B13848200978547 /* TabBarView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TabBarView.swift; sourceTree = "<group>"; };
 		3A763C152B13848200978547 /* MainView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
@@ -59,10 +58,11 @@
 		3A763C2B2B13848200978547 /* User.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 		3A763C2D2B13848200978547 /* Tab.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Tab.swift; sourceTree = "<group>"; };
 		3A763C2F2B13848200978547 /* WelcomeScreenOptionButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WelcomeScreenOptionButton.swift; sourceTree = "<group>"; };
-		3A763C312B13848200978547 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3A763C4B2B1384B800978547 /* Nunito-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Nunito-Bold.ttf"; sourceTree = "<group>"; };
 		3A763C4C2B1384B800978547 /* Poppins-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Regular.ttf"; sourceTree = "<group>"; };
 		3A763C4D2B1384B800978547 /* Poppins-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Bold.ttf"; sourceTree = "<group>"; };
+		3AB763E42B1E4B1C00E0BD88 /* fasfafasasfsa.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fasfafasasfsa.swift; sourceTree = "<group>"; };
+		3AB763E82B1E4C4600E0BD88 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +79,7 @@
 		3A763B842B13834D00978547 = {
 			isa = PBXGroup;
 			children = (
+				3AB763E42B1E4B1C00E0BD88 /* fasfafasasfsa.swift */,
 				3A763B8F2B13834D00978547 /* MedicineApp */,
 				3A763B8E2B13834D00978547 /* Products */,
 			);
@@ -95,11 +96,10 @@
 		3A763B8F2B13834D00978547 /* MedicineApp */ = {
 			isa = PBXGroup;
 			children = (
+				3AB763E82B1E4C4600E0BD88 /* Assets.xcassets */,
 				3A763C4A2B1384B800978547 /* fonts */,
-				3A763C112B13848200978547 /* Assets.xcassets */,
 				3A763C102B13848200978547 /* MedicineApp.swift */,
 				3A763C292B13848200978547 /* Models */,
-				3A763C302B13848200978547 /* Preview Content */,
 				3A763C1D2B13848200978547 /* Themes */,
 				3A763C122B13848200978547 /* Views */,
 			);
@@ -195,15 +195,6 @@
 			path = WelcomeScreen;
 			sourceTree = "<group>";
 		};
-		3A763C302B13848200978547 /* Preview Content */ = {
-			isa = PBXGroup;
-			children = (
-				3A763C312B13848200978547 /* Preview Assets.xcassets */,
-			);
-			name = "Preview Content";
-			path = "../../MedicineApp2/MedicineApp/Preview Content";
-			sourceTree = "<group>";
-		};
 		3A763C4A2B1384B800978547 /* fonts */ = {
 			isa = PBXGroup;
 			children = (
@@ -273,10 +264,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3A763C492B13848200978547 /* Preview Assets.xcassets in Resources */,
 				3A763C4E2B1384B800978547 /* Nunito-Bold.ttf in Resources */,
 				3A763C502B1384B800978547 /* Poppins-Bold.ttf in Resources */,
-				3A763C332B13848200978547 /* Assets.xcassets in Resources */,
+				3AB763E92B1E4C4600E0BD88 /* Assets.xcassets in Resources */,
 				3A763C4F2B1384B800978547 /* Poppins-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -305,6 +295,7 @@
 				3A763C452B13848200978547 /* Doctor.swift in Sources */,
 				3A763C3F2B13848200978547 /* GlobalFonts.swift in Sources */,
 				3A763C3C2B13848200978547 /* HeaderView.swift in Sources */,
+				3AB763E52B1E4B1C00E0BD88 /* fasfafasasfsa.swift in Sources */,
 				3A763C362B13848200978547 /* MainView.swift in Sources */,
 				3A763C352B13848200978547 /* TabBarView.swift in Sources */,
 				3A763C322B13848200978547 /* MedicineApp.swift in Sources */,
@@ -439,7 +430,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"MedicineApp/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -469,7 +460,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"MedicineApp/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
